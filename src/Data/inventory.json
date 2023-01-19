@@ -1,0 +1,26 @@
+{
+    "inventory":[
+       {
+          "id":1,
+          "title":"iPhone 9",
+          "stock":10
+       },
+       {
+          "id":2,
+          "title":"iPhone X",
+          "stock":10
+       },
+       {
+          "id":3,
+          "title":"Samsung Universe 9",
+          "stock":10
+       },
+       {
+          "id":4,
+          "title":"OPPOF19",
+          "stock":10
+       }
+       
+    ]
+  
+ }
